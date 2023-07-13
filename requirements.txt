@@ -1,5 +1,1 @@
-requests
-flask
-base64
-random
-json
+tinydb
